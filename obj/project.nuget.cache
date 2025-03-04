@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ak1Au2n4Vbg=",
+  "success": true,
+  "projectFilePath": "/home/marcos/.local/share/Terraria/tModLoader/ModSources/TMWQuests/TMWQuests.csproj",
+  "expectedPackageFiles": [
+    "/home/marcos/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
